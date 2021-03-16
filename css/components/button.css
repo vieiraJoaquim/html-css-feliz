@@ -1,0 +1,15 @@
+.button {
+    color: #fff;
+    display: inline-block;
+    background-color: #f25a70;
+    /*height: 60px;
+    line-height: 60px;*/
+    padding: 18px 20px;
+    box-shadow: 5px 5px 0px #000;
+    transition: transform 150ms linear;
+    text-decoration: none;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
